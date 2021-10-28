@@ -1,0 +1,14 @@
+/* Colors */
+:root {
+    --primary: #FFFFFF;
+    --secondary: #000000;
+}
+/* Configurações do body*/
+body {
+    margin: 0;
+    padding: 0;
+}
+/* Container */
+.container {
+    width: 1140;
+}
