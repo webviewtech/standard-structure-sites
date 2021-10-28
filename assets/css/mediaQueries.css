@@ -1,0 +1,12 @@
+/* Define largura padrão da área de conteúdo*/
+@media (max-width: 1140px) {
+
+}
+/* Tablet - As configurações adicionadas ao dispositivo Table serão aplicadas às telas com até 1024px*/
+@media (max-width: 1024px) {
+
+}
+/* Celular - As configurações adicionadas ao dispositivo Celular serão aplicadas às telas com até 767px*/
+@media (max-width: 767px) {
+
+}
